@@ -1,7 +1,7 @@
-echo "# html" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sujeetmehra01/html.git
-git push -u origin main
+echo "# html" >> README.md <br>
+git init <br>
+git add README.md <br>
+git commit -m "first commit" <br>
+git branch -M main <br>
+git remote add origin https://github.com/sujeetmehra01/html.git <br>
+git push -u origin main <br>
